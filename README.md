@@ -1,4 +1,4 @@
-# Economic features and selection risk in daily USD/JPY forecasting
+# Can Economic Data Improve Machine Learning Forecasts of Large USD/JPY Gains?
 
 **Author: Sai Reddivari**
 
